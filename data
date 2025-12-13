@@ -1,1 +1,3 @@
-ecommerce-sales-optimization/data/
+data
+├── raw_data.csv
+├── cleaned_data.csv
