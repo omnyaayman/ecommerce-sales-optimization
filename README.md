@@ -51,11 +51,6 @@ The project covers the following components:
 
 ---
 
-## 📘 Notebook
-All analysis steps are implemented in a single, well-structured
-Jupyter Notebook:"https://colab.research.google.com/drive/1btOIZueZHSrgxbo-CIYPmVJ5c_sXaQBx#scrollTo=EmIcbwe1bl6t"
-
-
 
 ## 📊 Visualizations
 
@@ -69,6 +64,14 @@ Jupyter Notebook:"https://colab.research.google.com/drive/1btOIZueZHSrgxbo-CIYPm
 
 ## Daily Orders
 <img width="853" height="590" alt="Screenshot 2025-12-24 160857" src="https://github.com/user-attachments/assets/ebbf5a2e-b739-4e49-ad31-062eeaf8bf94" />
+
+
+---
+
+
+## 📘 Notebook
+All analysis steps are implemented in a single, well-structured
+Jupyter Notebook:"https://colab.research.google.com/drive/1btOIZueZHSrgxbo-CIYPmVJ5c_sXaQBx#scrollTo=EmIcbwe1bl6t"
 
 
 
