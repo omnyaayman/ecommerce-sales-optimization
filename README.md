@@ -4,7 +4,7 @@
 </p>
 
 <h1 align="center" style="color:#3498DB;">
-    E-Commerce Sales Optimization Project
+  
 </h1>
 ## 📌 Project Overview
 This project focuses on analyzing e-commerce sales data to understand
