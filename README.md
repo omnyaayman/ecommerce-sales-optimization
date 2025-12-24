@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://svg-banners.vercel.app/api?type=origin&text1=ASL%20Recognition&width=900&height=250&color=blue" />
+  <img src="https://svg-banners.vercel.app/api?type=origin&text1=E-Commerce%20Sales&width=900&height=250&color=blue" />
 </p>
 
 <h1 align="center" style="color:#3498DB;">
