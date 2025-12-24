@@ -62,3 +62,8 @@ Jupyter Notebook:"https://colab.research.google.com/drive/1btOIZueZHSrgxbo-CIYPm
 ### Sales Amount
 <img width="748" height="586" alt="Screenshot 2025-12-24 160758" src="https://github.com/user-attachments/assets/17a2536b-09d6-48fc-acca-ec3097133fa6" />
 
+
+## Fulfilment Type
+<img width="608" height="625" alt="Screenshot 2025-12-24 160841" src="https://github.com/user-attachments/assets/ee6eb4ee-2237-42e0-aa93-c5ae40308393" />
+
+
