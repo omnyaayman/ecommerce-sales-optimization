@@ -67,3 +67,8 @@ Jupyter Notebook:"https://colab.research.google.com/drive/1btOIZueZHSrgxbo-CIYPm
 <img width="608" height="625" alt="Screenshot 2025-12-24 160841" src="https://github.com/user-attachments/assets/ee6eb4ee-2237-42e0-aa93-c5ae40308393" />
 
 
+## Daily Orders
+<img width="853" height="590" alt="Screenshot 2025-12-24 160857" src="https://github.com/user-attachments/assets/ebbf5a2e-b739-4e49-ad31-062eeaf8bf94" />
+
+
+
