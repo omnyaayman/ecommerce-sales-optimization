@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://svg-banners.vercel.app/api?type=origin&text1=E-Commerce%250Sales&width=900&height=150&color=blue" />
+  <img src="https://svg-banners.vercel.app/api?type=origin&text1=E-Commerce%250&Sales&width=900&height=150&color=blue" />
 </p>
 
 <h1 align="center" style="color:#3498DB;">
