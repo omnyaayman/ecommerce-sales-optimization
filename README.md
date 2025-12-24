@@ -1,5 +1,11 @@
-# 🛒 E-commerce Sales Optimization
 
+<p align="center">
+  <img src="https://svg-banners.vercel.app/api?type=origin&text1=ASL%20Recognition&width=900&height=250&color=blue" />
+</p>
+
+<h1 align="center" style="color:#3498DB;">
+    E-Commerce Sales Optimization Project
+</h1>
 ## 📌 Project Overview
 This project focuses on analyzing e-commerce sales data to understand
 sales trends and customer behavior, with the goal of optimizing revenue
