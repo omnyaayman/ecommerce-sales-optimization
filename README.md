@@ -60,6 +60,5 @@ Jupyter Notebook:"https://colab.research.google.com/drive/1btOIZueZHSrgxbo-CIYPm
 ## 📊 Visualizations
 
 ### Sales Trend Analysis
-![Sales Trend](visuals/<img width="748" height="586" alt="Screenshot 2025-12-24 160758" src="https://github.com/user-attachments/assets/cd834542-d419-4c2b-9f09-712e52556f04" />
-.png)
+![Sales Amount](visuals/<img width="748" height="586" alt="Screenshot 2025-12-24 160758" src="https://github.com/user-attachments/assets/cd834542-d419-4c2b-9f09-712e52556f04") 
 
